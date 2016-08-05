@@ -1,0 +1,149 @@
+.bg-im1{		/* Background banner principal */
+	background-image: url("../img/dance_7.jpg");
+ 	height: 400px;
+ 	width: 1349px;
+ 	margin-top:2%;
+ 	background-position: center left;		/* Muestra la imagen completa de la parte de arriba */
+ 	background-repeat: no-repeat;
+ }
+
+.cont-banner{		/* Contenedor info banner */
+	width: 40%;
+	height: 40%;
+	margin:auto;
+}
+
+ h2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 20%;
+	padding-bottom: 5%;
+ }
+
+ .p-nosotros{		/* Estilo parrafo nosotros */
+ 	font-size: 14px;
+ }
+
+ .transparencia{		/* Cuadro negro en transparencia */
+	background:rgba(0, 0, 0, 0.4);
+	border-radius: 2px;
+	padding: 5% 5%;
+ }
+
+ h3{
+ 	font-weight: bold;
+ }
+
+ .cont-pilar{		/* Contenedor info pilar */
+ 	box-sizing: border-box;
+	width: 70%;
+	height: 70%;
+ }
+
+.bg-im2{		/* Background banner principal */
+	background-image: url("../img/cubes.png");
+ 	height: 350px;
+ 	width: 1349px;
+ 	background-position: 10px 30px;		/* Muestra la imagen completa de la parte de arriba */
+ 	background-repeat: repeat;
+ 	padding-top: 4%;
+ }
+
+ #cont-pilar{		/* Espacio de margen izquierdo del pilar 1 */
+ 	 margin-left: 40%;
+ 	 box-sizing: border-box;
+ }
+
+ #cont-pilar2{		/* Espacio de margen izquierdo del pilar del centro */
+ 	 margin-left: 20%;
+ 	 box-sizing: border-box;
+ }
+
+ .p-instruc{		/* Estilo titulo instructore */
+	font-size: 30px;
+	font-weight: bold;
+ }
+
+ .cont-todos{		/* Contenedor de los 4 instructores del renglon */
+	margin-top: 25%;
+	margin-bottom: 30%;
+ }
+
+ .cont-instruc{		/* Contenedor de la info de cada instructor */
+	width: 180%;
+	margin-left:5%; 
+	box-sizing: border-box;
+ }
+
+ .margin-instruc{
+	width: 48%;
+	box-sizing: border-box;
+ }
+
+ .name-inst{	/* Estilo nombre instructor */
+	font-size: 20px;
+	color:#000;
+	font-weight: bold;
+ }
+
+ .descripcion{		/* Estilo texto descripcion instructor */
+	font-size: 14px;
+	color:#000;
+ }
+
+.image{		/* imagen instructor */
+ 	height: 180px;
+ 	width: 249px;
+ 	background-position: top;		/* Muestra la imagen completa de la parte de arriba */
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	margin-bottom: 2%;
+}
+
+/* Imagenes de instructores */
+
+#image1{
+	background-image: url("../img/profesor_4.jpg");
+}
+
+#image2{
+	background-image: url("../img/profesor_14.jpg");
+}
+
+#image3{
+	background-image: url("../img/profesor_1.jpg");
+}
+
+#image4{
+	background-image: url("../img/profesor_10.jpg");
+}
+
+#image5{
+	background-image: url("../img/profesor_11.jpg");
+}
+
+#image6{
+	background-image: url("../img/profesor_12.jpg");
+}
+
+#image7{
+	background-image: url("../img/profesor_9.jpg");
+}
+
+#image8{
+	background-image: url("../img/profesor_15.jpg");
+}
+
+/* Imagenes de instructores */
+
+.ml{
+	margin-left: 8%;
+}
+
+.ml2{
+	margin-left: 6%;
+}
+
+.ml3{
+	margin-left: 0%;
+}

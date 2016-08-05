@@ -1,0 +1,95 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+
+.li-menu{		/* Estilos del menu */
+	margin: 40px 0px 0px 80px;
+	display: inline-block;
+	color: rgb(83, 88, 95);
+	font-size: 18px;
+}
+
+#menu-left{		/* Margen izquierdo del menu */
+	margin-left: 24%;
+}
+
+body {		/* No aparezca la barra de deslazamiento horizontal */
+   overflow-x: hidden;
+}
+
+a{		/* Links sin decoracion */
+	text-decoration: none;
+}
+
+.text-justify{		/* Texto justificado */
+	text-align: justify;
+}
+
+.pb-10{		/* Padding bottom del 10% */
+	padding-bottom: 10%;
+}
+
+.frase{
+	font-size: 36px;
+	font-style: italic;
+}
+
+form{		/* Estilo etiqueta form */
+	width: 700px;
+	margin: auto;
+	padding: 10px 150px;
+	box-sizing: border-box;
+	margin-top: 20px;
+}
+
+.p-contact{		/* Estilo del texto Contactanos */
+ 	font-size: 30px;
+ 	font-weight: bold;
+ 	margin-bottom: 20px;
+ }
+
+ input, textarea{		/* Estilo de las cajas de texto (nombre email y mensaje) */
+ 	width: 100%;
+ 	margin-bottom:20px;
+ 	padding: 7px;
+ 	box-sizing: border-box;
+ 	font-size: 17px;
+ }
+
+ textarea{		/* Estilo del area de mensaje */
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+ }
+
+ #boton{			/* Boton formulario */
+ 	background-color: #192951;
+ 	padding: 20px;
+ 	color: #fff;
+ 	border-radius: 10px;
+ }
+
+ #boton:hover{		/* Boton formulario */
+ 	cursor: pointer;
+ }
+
+.pd{		/* Espacio footer */
+	padding: 1% 0% 1% 1%;
+ }
+
+  .bg-blue{		/* Background azul */
+ 	background-color: #192951;
+ }
+
+ .bg-im5{		/* Background imagen zapatillas seccion contactanos */
+	background-image: url("../img/shoes_1.jpg");
+ 	height: 500px;
+ 	width: 700px;
+ 	background-repeat: no-repeat;
+ }
+
+ .text-black{
+ 	color:#000;
+ }
+
+.mt-2{
+	margin-top: 2%;
+}

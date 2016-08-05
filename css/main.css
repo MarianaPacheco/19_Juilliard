@@ -1,0 +1,126 @@
+.bg-im1{		/* Background banner principal */
+	background-image: url("../img/dance_1.jpg");
+ 	height: 400px;
+ 	width: 1349px;
+ 	margin-top:2%;
+ 	background-position: 0px -10px;		/* Muestra la imagen completa de la parte de arriba */
+ }
+
+ .cont-banner{		/* Contenido de texto banner principal */
+	width: 15%;
+	height: 30%;
+	margin-left: 10%;
+	padding-top: 4%;
+ }
+
+ .studio{		/* Letras grandes del texto STUDIO banner principal */
+	font-size: 60px;
+	font-weight: bold;
+ }
+
+ .p-banner{		/* Párrafo banner principal */
+	font-size: 12px;
+	padding-bottom: 10%;
+ }
+
+ .boton-1{		/* Atributos del botón del banner */
+	width: 70%;
+	height: 40px;
+	background-color: #192951;
+	border: 0px solid #192951;
+	font-size: 14px;
+	cursor: pointer;
+ }
+
+ .bg-im2{		/* Background seccion 2 */
+	background-image: url("../img/textura_2.jpg");
+ 	height: 400px;
+ 	width: 1349px;
+ }
+
+ .parrafo-1{		/* Estillo primer parrafo */
+ 	font-size: 24px;
+ }
+
+.deco{		/* imagen decoracion debajo del primer texto */
+	display: block;
+	margin: auto;
+	width: 10%;
+}
+
+.boton-2{		/* Atributos del botón de oferta de clases */
+	width: 20%;
+	height: 60px;
+	background-color: #192951;
+	border: 0px solid #192951;
+	font-size: 14px;
+	border-radius: 10px;
+	display: block;
+	margin: auto;
+	cursor: pointer;
+ }
+
+ .boton-3{		/* Atributos del botón de oferta de clases */
+	width: 40%;
+	height: 80px;
+	background-color: #192951;
+	border: 0px solid #192951;
+	font-size: 18px;
+	display: block;
+	margin: -80px 0px 0px -280px;
+	cursor: pointer;
+	position: absolute;
+ }
+
+.bg-im3{		/* Background seccion imagenes hombre */
+	background-image: url("../img/instructor_4.jpg");
+ 	height: 350px;
+ 	width: 720px;
+ 	background-position: -40px 0px;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+}
+
+.bg-im4{		/* Background seccion imagenes mujer */
+	background-image: url("../img/profesor_9.jpg");
+ 	height: 350px;
+ 	width: 720px;
+ 	background-position: -40px 0px;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+}
+
+.bg-im2-2{		/* Background seccion 2 */
+	background-image: url("../img/textura_2.jpg");
+ 	height: 270px;
+ 	width: 1349px;
+ }
+
+ }
+
+ .p-visit{		/* Estilo texto visitanos */
+ 	font-size: 18px;
+ 	font-weight: bold;
+ }
+
+ .cont-text1{		/* Contenido texto 1 en el background azul */
+ 	width: 75%;
+	height: 30%;
+	margin-left: 10%;
+	padding-top: 4%;
+ }
+
+ .cont-visit{		/* Estilo parrafo visit en el background azul */	
+ 	width: 25%;
+	height: 30%;
+	margin-left: 10%;
+	font-size: 13px;
+ }
+
+ .cont-mapa{		/* Contenedor del mapa */
+ 	margin-left: 15%;
+ 	width: 550px;
+ 	height: 300px;
+ }
+
+ 
